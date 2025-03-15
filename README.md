@@ -8,6 +8,7 @@ A project in attempt to recreate AD-Blocker for Chrome through Windows SDK's .NE
 - 📶 Requires a stable internet connection.
 - ➡️ Data stream processing.
 - 📦 Network packet manipulation.
+- 🧅 Supports connections via the Tor network.
 
 ## Overview
 
