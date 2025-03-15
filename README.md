@@ -1,4 +1,4 @@
-# AD Block Agent Projects [![Status](https://img.shields.io/badge/Status-Under%20Development-yellow)](https://img.shields.io/badge/Status-Under%20Development-yellow)
+# AD Block Agent Projects 
 
 A project in attempt to recreate AD-Blocker for Chrome through Windows SDK's .NET Frameworks directly from it's networks.
 
